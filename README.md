@@ -17,7 +17,9 @@ The Dice Game project was created as a fun and interactive way to explore basic 
 - JavaScript(jQuery)
 
 ## Demo
-You can see a demo of the Dice Game in action [here](#) (insert link to demo if available).
+You can watch a demo of the project by downloading the video file from the following link:
+
+[Download Video Demo](video.mp4)
 
 
 
