@@ -18,8 +18,8 @@ The Dice Game project was created as a fun and interactive way to explore basic 
 
 ## Demo
 You can watch a demo of the project by clicking on the following link:
-[Click on the following link to see the live demo of the Dice game] https://github.com/shoaibtechs/Dice-Roll-Game/tree/main/Video
-
+[Click on the following link to see the live demo of the Dice game]
+(https://shoaibtechs.github.io/Dice-Roll-Game/)https://shoaibtechs.github.io/Dice-Roll-Game/
 
 ![Dice-Roll-Game](images/dice.png)
 
