@@ -18,8 +18,10 @@ The Dice Game project was created as a fun and interactive way to explore basic 
 
 ## Demo
 You can watch a demo of the project by downloading the video file from the following link:
-
 [Download Video Demo] https://github.com/shoaibtechs/Dice-Roll-Game/tree/main/Video
+
+
+![Dice-Roll-Game](images/dice.png)
 
 
 
